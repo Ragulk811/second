@@ -1,0 +1,18 @@
+.top{
+
+    background-color: blueviolet;
+    font-family: sans-serif;
+    color: greenyellow;
+    border-style: dashed;
+}
+.second{
+    background-color: greenyellow;
+       
+}
+table,tr,td{
+    border: solid;
+
+}
+.third{
+    background-color: lightgrey;
+}
